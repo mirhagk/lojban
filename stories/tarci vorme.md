@@ -1,9 +1,5 @@
-javni fi le si'o vorme le tarci (Rules of the Stargate)
+javni fi le tarci vorme litru (Rules for Stargate travellers)
 =====
 
-
-le si'o vorme le tarci kei 
-
-vorme le tarci
-
-tarci vorme litru
+le nu tarci vorme litru kei ckape
+(travelling through the stargate is dangerous)
